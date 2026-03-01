@@ -49,10 +49,12 @@ Knowledge Score: Assesses the agent's product and process expertise demonstrated
 
 
 1- **Unplanned By Company:** India is currently facing critical attendance challenges, driven by a 15.44% Unplanned Shrinkage rate. This is further compounded by 5.72% Absenteeism and 7.49% Sickness.
+
 2- **Attendance By Country:** Mahindra& Mahindra has the highest unplanned shrinkage rate, with 16.48% and 0% planned shrinkage.
 
 
 3- **Overstaff Observation:** The gap between Occupancy % (Time spent working vs. waiting) and Utilization % (Time spent working vs. paid shift) is widening.
+
 4- **Ferrari User Experience:** Ferrari has a very low EX, 50% of the customers were not satisfied after contacting Ferrari.
 
 # SUMMARY & STRATEGIC OUTLOOK
